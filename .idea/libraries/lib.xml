@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/mysql-connector-java-8.0.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/RSFoto_v1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/RSCalendar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/RojeruSan.parte1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/RSTableMetro.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
